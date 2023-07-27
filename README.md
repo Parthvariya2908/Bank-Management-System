@@ -1,7 +1,5 @@
 # Bank Management System - C Project
 
-![Bank Management System](bank_management_system.png)
-
 This is a simple console-based Bank Management System project implemented in C language. The project simulates the operations of a bank, allowing administrators and staff members to create, manage, and interact with customer accounts. Users can perform various tasks, such as creating new accounts, deleting accounts, searching for account details, and performing deposit and withdrawal transactions. The system also provides an ATM service for quick cash withdrawals and deposits.
 
 ## Key Features
